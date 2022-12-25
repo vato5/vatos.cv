@@ -1,0 +1,47 @@
+.img{
+width: 200px;
+float: left;
+
+}
+.saxeli{
+margin-left: -250px;
+padding: 5px;
+width: 600px;
+left: 50%;
+position:absolute;
+border: 8px  solid pink  ;
+padding-inline: 20px ;
+}
+.vato{
+padding-left: 220px;
+
+color:darkslategray;
+font-size: 50px;
+}
+.info{
+
+text-align: center;
+font-size: 20px;
+
+}
+.gilaki{
+width: 70px;
+height: 45px;
+
+
+}
+.gilaki2{
+width: 70px;
+height: 45px;
+
+
+
+}
+
+.body.shavi {
+    background-color: black;
+}
+
+.body.shavi .saxeli {
+    color: white;
+}
